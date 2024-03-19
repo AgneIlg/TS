@@ -39,3 +39,7 @@ const mix2 = [45518, 'asd', 5148, 'ewrgs', true, false];
 const mix3 = ['fsd', 'wewr', 'der', '2514'];
 const str = 'Labas rytas'.split('').map(x => x.toUpperCase());
 console.log(str);
+function random(a, b, c, d) {
+    return null;
+}
+console.log(random(1, 2, 3, 4));

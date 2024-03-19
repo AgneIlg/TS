@@ -49,3 +49,8 @@ const mix3: number[] | string[] = ['fsd', 'wewr', 'der', '2514'];
 
 const str = 'Labas rytas'.split('').map(x =>x.toUpperCase());
 console.log(str);
+
+function random(a:number, b:string, c:boolean,d: number[]) {
+    return null;
+}
+console.log(random(1, 2, 3, 4));
